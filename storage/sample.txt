@@ -1,0 +1,11 @@
+Name: Asem Mirzaeva
+Age: 23
+Occupation: Software Engineer
+
+Name: Madina Jumaniyozova
+Age: 20
+Occupation: Marketing Manager
+
+Name: Nozimaxon Mengboyeva
+Age: 19
+Occupation: HR Specialist
